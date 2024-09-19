@@ -1,0 +1,19 @@
+<INITIALIZATION>
+restart_flag: 0
+restart_file: amr_soln_0000000.bin
+</INITIALIZATION>
+
+<GRID>
+unstructured_flag: 0
+unstructured_file: hole_3d_cubit.inp
+periodic_flag: 1 1 0
+domain_lo: -5.000000 -5.000000 -5.000000
+domain_hi:  15.000000  5.000000  5.000000
+min_dx: 0.078125
+max_amr_level: 3
+min_amr_level: 0
+refined_box: 0
+box_lo: 0.000000 0.000000 0.000000
+box_hi: 0.000000 0.000000 0.000000
+</GRID>
+
