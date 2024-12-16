@@ -1,6 +1,6 @@
 Finite Volume AMR Solver
 =========
-This is an demo program of solving the compressible Euler equations using a finite volume method on non-conforming adaptive meshes. The adaptive mesh refinement infrastructure is provided by [p4est](https://github.com/cburstedde/p4est).
+This is an demo framework for OCCA.
 
 ---
 # 1. Obtaining the DEMO  
