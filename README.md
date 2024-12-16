@@ -31,8 +31,7 @@ This is an demo framework for OCCA.
 |                      |             |                                                    |
 | **3PL OPTIONS**:     |             |                                                    |
 | --ALL3P              | -all3p      | compile all 3rd party libraries                    |
-| --P4EST              | -p4est      | compile p4est                                      |
-| --METIS              | -metis      | compile metis                                      |
+| --OCCA               | -occa      | compile occa   |                                
 
 # Recommended Build Options:
 **Default Option (-go)**: Sets CC=mpicc CXX=mpicxx FC=mpif90  
