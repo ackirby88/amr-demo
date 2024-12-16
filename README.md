@@ -1,4 +1,4 @@
-Finite Volume AMR Solver
+OCCA Demo
 =========
 This is an demo framework for OCCA.
 
